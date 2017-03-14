@@ -250,3 +250,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+######## (Added by PMG) ########
+# Visual Studio Code 
+.vscode/
+
